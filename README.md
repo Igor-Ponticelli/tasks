@@ -4,7 +4,7 @@
 <p>Uma aplicação de gerenciar as tarefas.</p>
 <blockquote>
   <cite>Rocketseat</cite>
-  <p>A aplicação está praticamente completa, é necessário cirar as funcionalidades de adicionar uma tarefa e aparecer na tela, de marcar a tarefa concluída e de excluir a tarefa</p>
+  <p>A aplicação está praticamente completa, é necessário criar as funcionalidades de adicionar uma tarefa e aparecer na tela, de marcar a tarefa concluída e de excluir a tarefa</p>
 </blockquote>
 <h3>Como a aplicação ficou:</h3>
 <img src="./public/images/todo.png">
